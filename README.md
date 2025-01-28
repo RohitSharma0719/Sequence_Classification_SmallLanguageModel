@@ -1,5 +1,7 @@
 # Sequence_Classification_SmallLanguageModel
 
+Dataset: https://machinehack.com/hackathons/mlds_2025_sequence_classification/data
+
 # Text Classification with Fine-Tuned Transformer Models
 
 This repository provides a complete implementation of a fine-tuned transformer model for multi-class text classification using Hugging Face's Transformers library. It preprocesses the dataset, trains the model, handles imbalanced classes, and saves the trained model for deployment.
